@@ -1,0 +1,7 @@
+C:\Users\arthu\source\repos\AulaCsharp02\AulaCsharp02\obj\Debug\AulaCsharp02.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\AulaCsharp02\AulaCsharp02\obj\Debug\AulaCsharp02.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\AulaCsharp02\AulaCsharp02\bin\Debug\AulaCsharp02.exe.config
+C:\Users\arthu\source\repos\AulaCsharp02\AulaCsharp02\bin\Debug\AulaCsharp02.exe
+C:\Users\arthu\source\repos\AulaCsharp02\AulaCsharp02\bin\Debug\AulaCsharp02.pdb
+C:\Users\arthu\source\repos\AulaCsharp02\AulaCsharp02\obj\Debug\AulaCsharp02.exe
+C:\Users\arthu\source\repos\AulaCsharp02\AulaCsharp02\obj\Debug\AulaCsharp02.pdb
